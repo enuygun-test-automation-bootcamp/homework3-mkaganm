@@ -25,18 +25,16 @@ Aşağıdaki linklere tıklayarak oluşturduğum quick-start paketime göz atabi
 
 [Tüm paket](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/tree/main/src/main/java/MKaganM)
 
-Driver yollarını ayarlamak için oluşturduğum sınıf - [FindPath](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/FindPath.java)
+[FindPath](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/FindPath.java) - Driver yollarını ayarlamak için oluşturduğum sınıf
 
-Enum sınıfı - [DriverType](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverType.java)
+[DriverType](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverType.java) - Enum sınıfı
 
-Diğer sınıfların miras aldığı abstract sınıfı - [Drivers](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/Drivers.java)
+[Drivers](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/Drivers.java) - Diğer sınıfların miras aldığı abstract sınıfı
 
-Chrome driver işlemlerinin olduğu sınıf - [DriverChrome](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverChrome.java)
+[DriverChrome](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverChrome.java) - Chrome driver işlemlerinin olduğu sınıf
 
-Edge driver işlemlerinin olduğu sınıf - [DriverEdge](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverEdge.java)
+[DriverEdge](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverEdge.java) - Edge driver işlemlerinin olduğu sınıf 
 
-Firefox driver işlemlerinin olduğu sınıf - [DriverFirefox](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverType.java)
-
-
+[DriverFirefox](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverType.java) - Firefox driver işlemlerinin olduğu sınıf
 
 ## LOGIN PAGE TEST
