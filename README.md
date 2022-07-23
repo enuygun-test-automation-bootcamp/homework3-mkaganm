@@ -25,4 +25,6 @@ Aşağıdaki linklere tıklayarak oluşturduğum quick-start paketime göz atabi
 
 [Tüm paket](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/tree/main/src/main/java/MKaganM)
 
+Diğer sınıfların miras aldığı abstract sınıfı. [Drivers](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/Drivers.java)
+
 ## LOGIN PAGE TEST
