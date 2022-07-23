@@ -16,4 +16,8 @@ Başlatmak istediğiniz profil yolunu options a tanımlayarak tarayıcıyı bir 
         // * The settings added to the options variable were given to the driver when defining the driver.
         WebDriver driver = new ChromeDriver(options);
 ```
-https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/org/example/OpenWithProfile.java
+
+[Buraya tıklayarak örneğe gidebilirsiniz.](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/org/example/OpenWithProfile.java)
+
+## QUICK START PACKAGE
+
