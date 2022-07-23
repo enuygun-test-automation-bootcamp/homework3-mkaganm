@@ -1,15 +1,32 @@
 package org.example;
 import MKaganM.DriverChrome;
-import MKaganM.DriverType;
-import org.openqa.selenium.WebDriver;
+import MKaganM.DriverEdge;
+import MKaganM.DriverFirefox;
 
-import static MKaganM.DriverType.*;
-import static MKaganM.FindPath.driverPath;
 
 public class Main {
     public static void main(String[] args) {
 
-        WebDriver driver = new DriverChrome().driver;
+
+        String[] opt = {"--start-maximized", "user-data-dir=C:\\Users\\mkaga\\AppData\\Local\\Google\\Chrome\\User Data"};
+        String[] opt2 = {"--start-maximized"};
+        String url ="https://www.enuygun.com";
+
+
+        DriverChrome driver = new DriverChrome(opt2);
+        driver.open(url);
+
+
+        DriverFirefox driver3 = new DriverFirefox(opt2);
+        driver3.open(url);
+
+
+        DriverEdge driver2 = new DriverEdge(opt2);
+        driver2.open(url);
+
+
+
+
 
     }
 }
