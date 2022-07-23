@@ -35,7 +35,7 @@ Aşağıdaki linklere tıklayarak oluşturduğum quick-start paketime göz atabi
 
 [DriverEdge](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverEdge.java) - Edge driver işlemlerinin olduğu sınıf
 
-[DriverFirefox](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverType.java) - Firefox driver işlemlerinin olduğu sınıf
+[DriverFirefox](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverFirefox.java) - Firefox driver işlemlerinin olduğu sınıf
 
 ## LOGIN PAGE AND REGISTER PAGE
 
