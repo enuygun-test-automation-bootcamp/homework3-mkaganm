@@ -25,6 +25,18 @@ Aşağıdaki linklere tıklayarak oluşturduğum quick-start paketime göz atabi
 
 [Tüm paket](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/tree/main/src/main/java/MKaganM)
 
-Diğer sınıfların miras aldığı abstract sınıfı. [Drivers](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/Drivers.java)
+Driver yollarını ayarlamak için oluşturduğum sınıf - [FindPath](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/FindPath.java)
+
+Enum sınıfı - [DriverType](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverType.java)
+
+Diğer sınıfların miras aldığı abstract sınıfı - [Drivers](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/Drivers.java)
+
+Chrome driver işlemlerinin olduğu sınıf - [DriverChrome](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverChrome.java)
+
+Edge driver işlemlerinin olduğu sınıf - [DriverEdge](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverEdge.java)
+
+Firefox driver işlemlerinin olduğu sınıf - [DriverFirefox](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverType.java)
+
+
 
 ## LOGIN PAGE TEST
