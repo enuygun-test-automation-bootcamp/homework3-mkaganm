@@ -1,3 +1,4 @@
+
 # HOMEWORK-3
 
 ## PROFİL İLE DRİVER BAŞLATMA
@@ -37,4 +38,6 @@ Aşağıdaki linklere tıklayarak oluşturduğum quick-start paketime göz atabi
 
 [DriverFirefox](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverType.java) - Firefox driver işlemlerinin olduğu sınıf
 
-## LOGIN PAGE TEST
+## LOGIN PAGE AND REGISTER PAGE
+
+
