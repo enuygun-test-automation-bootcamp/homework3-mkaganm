@@ -10,17 +10,17 @@ public class FindPath {
     // * You can use this method to find driver path.
     // * Bu metodu driver yolunu bulmak için kullanabilirsiniz.
     public static String driverPath(Enum driverType){
-        Path resourceDirectory = Paths.get("src","main","resources");
+        Path resourceDirectory = Paths.get("src","main","java","MKaganM","bin");
         String path = resourceDirectory.toFile().getAbsolutePath();
 
         if(driverType.equals(CHROME)){              // * add to path chromedriver
-            path += "/bin/chromedriver.exe";
+            path += "/chromedriver.exe";
 
         } else if (driverType.equals(FIREFOX)) {    // * add to path firefoxdriver (geckodriver)
-            path += "/bin/geckodriver.exe";
+            path += "/geckodriver.exe";
 
         } else if (driverType.equals(EDGE)) {       // * add to path edgedriver (msedgedriver)
-            path += "/bin/msedgedriver.exe";
+            path += "/msedgedriver.exe";
 
         } else {    // * ERROR MESSAGE
             path = "YOUR DRIVER TYPE NOT FOUND...\n" +

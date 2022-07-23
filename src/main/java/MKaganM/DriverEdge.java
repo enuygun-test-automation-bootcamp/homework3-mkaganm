@@ -5,17 +5,30 @@ import org.openqa.selenium.edge.EdgeOptions;
 
 public class DriverEdge extends Drivers{
 
-    public void DriverEdge() {
-        driver = new EdgeDriver();
+    // * default constructor for driver
+    public DriverEdge() {
+        setupDriver();
+        this.driver = new EdgeDriver();
     }
 
-    public void DriverChrome(String[] options){
-
+    // * constructor with options
+    public DriverEdge(String[] args){
+        setupDriver();
+        this.driver = new EdgeDriver(optionsEdge(args));
     }
 
+    // * set options
     public EdgeOptions optionsEdge(String[] args){
         EdgeOptions options = new EdgeOptions();
         options.addArguments(args);
         return options;
     }
+
+    // * setup driver and driver path
+    @Override
+    public void setupDriver(){
+        System.setProperty("webdriver.edge.driver", FindPath.driverPath(DriverType.EDGE));
+    }
+
+
 }
