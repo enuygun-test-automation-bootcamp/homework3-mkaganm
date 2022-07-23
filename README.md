@@ -1,3 +1,4 @@
+
 # HOMEWORK-3
 
 ## PROFİL İLE DRİVER BAŞLATMA
@@ -33,8 +34,10 @@ Aşağıdaki linklere tıklayarak oluşturduğum quick-start paketime göz atabi
 
 [DriverChrome](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverChrome.java) - Chrome driver işlemlerinin olduğu sınıf
 
-[DriverEdge](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverEdge.java) - Edge driver işlemlerinin olduğu sınıf 
+[DriverEdge](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverEdge.java) - Edge driver işlemlerinin olduğu sınıf
 
 [DriverFirefox](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/MKaganM/DriverType.java) - Firefox driver işlemlerinin olduğu sınıf
 
-## LOGIN PAGE TEST
+## LOGIN PAGE AND REGISTER PAGE
+
+
