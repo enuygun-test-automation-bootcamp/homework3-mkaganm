@@ -1,4 +1,3 @@
-
 # HOMEWORK-3
 
 ## PROFİL İLE DRİVER BAŞLATMA
@@ -40,4 +39,8 @@ Aşağıdaki linklere tıklayarak oluşturduğum quick-start paketime göz atabi
 
 ## LOGIN PAGE AND REGISTER PAGE
 
+[Enuygun](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/org/example/Enuygun.java) - Enuygun ana sayfa işlemlerinin bulunduğu sınıf
 
+[EnuygunLoginPage](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/org/example/EnuygunLoginPage.java) - Enuygun giriş yap sayfasının işlemlerinin bulunduğu sınıf
+
+[EnuygunRegisterPage](https://github.com/enuygun-test-automation-bootcamp/homework3-mkaganm/blob/main/src/main/java/org/example/EnuygunRegisterPage.java) - Enuygun kayıt ol sayfasının işlemlerinin bulunduğu sınıf
